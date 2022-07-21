@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607711200 source:d:\julien\documents\c\cm07\funcpointers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607721495 source:d:\julien\documents\c\cm07\variadfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
